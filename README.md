@@ -7,6 +7,9 @@
 <li>alert_cron : <br>Send an alert on telegram if there is go upper the value it's set</li>
 </ul>
 <h3>Python script</h3>
+<h4>Python Whitlist</h4>
+Tool made for ethernium.net to whitlist threw a database, can be improved
+<h4>Python Sniffer</h4>
 Need to improve the script<br>
 Ifstat recupere les valeurs RX et TX au moment meme de la prise <br>
 A regarder pour un subprocess plus cool <br>
