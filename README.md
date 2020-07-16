@@ -5,6 +5,7 @@
 <li>auto-tcpdump : <br>If you use it setup ifstat and a crontab X minutes whatever</li>
 <li>geoloc : <br>Look how works the script to use it proprely</li>
 <li>alert_cron : <br>Send an alert on telegram if there is go upper the value it's set</li>
+<li>whitlist_ipset: Script for ethernium for the frist project to avoid useless drop from FR users</li>
 </ul>
 <h3>Python script</h3>
 <h4>Python Whitlist</h4>
