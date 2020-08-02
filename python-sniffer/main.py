@@ -47,7 +47,7 @@ def flag_values_Country() :
 		valueFlagCountry = valueFlagCountry * 25 / float(100) # Convert on a 25 
 		valueFlagCountry = int(valueFlagCountry)
 	return valueFlagCountry
-	
+# comment1	
 # Fonction flag_values_packet 
 # Pas vraiment un flag a revoir la fonction et faire une autre
 # Celle-ci peu quand meme aider. Sur quoi est-ce que je me base le % ?
